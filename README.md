@@ -1,6 +1,6 @@
-# University-Award-Calculation-System-Java-CLI
+# University-Award-Calculation-System-Java-PP-CLI
 
-Java based University Award Calculation System.
+Java based University Award Calculation System. [Procedural Programming]
 
 This is the same system which was initially created using a GUI but this time with the usual CLI.
 
